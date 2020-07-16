@@ -92,7 +92,7 @@ const lineChartData: { [type: string]: ILineChartData } = {
     actualData: [120, 82, 91, 154, 162, 140, 145]
   },
   messages: {
-    expectedData: [200, 192, 120, 144, 160, 130, 140],
+    expectedData: [200, 192, 1231, 144, 160, 130, 140],
     actualData: [180, 160, 151, 106, 145, 150, 130]
   },
   purchases: {
